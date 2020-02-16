@@ -3,5 +3,7 @@ RUNIBOT es el torneo de robótica más grande de Colombia y uno de los más impo
 
 ## Grupo conformado por:
 Alejandro Salazar
+
 Yeraldin Duque
+
 Daniel Sánchez
